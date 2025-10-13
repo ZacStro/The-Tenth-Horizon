@@ -13,7 +13,8 @@ config_version=5
 config/name="The Tenth Horizon"
 run/main_scene="uid://2u86chjegl27"
 config/features=PackedStringArray("4.5", "C#", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="uid://bvv7fewwb6spx"
+config/windows_native_icon="res://icon.ico"
 
 [dotnet]
 
